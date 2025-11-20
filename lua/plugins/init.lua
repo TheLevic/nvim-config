@@ -6,6 +6,8 @@ return {
         require("plugins.nvimtree"),
         require("plugins.telescope"),
         require("plugins.lualine"),
-        require("plugins.gitsigns.lua"),
+        require("plugins.gitsigns"),
+        require("plugins.comment"),
+        require("plugins.autopairs"),
     },
 }
