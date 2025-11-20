@@ -10,5 +10,6 @@ return {
         require("plugins.comment"),
         require("plugins.autopairs"),
         require("plugins.colorscheme"),
+        require("plugins.markdown_preview"),
     },
 }
