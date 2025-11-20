@@ -9,5 +9,6 @@ return {
         require("plugins.gitsigns"),
         require("plugins.comment"),
         require("plugins.autopairs"),
+        require("plugins.colorscheme"),
     },
 }
