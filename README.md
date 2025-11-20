@@ -5,7 +5,7 @@ This is my personal Neovim configuration, built with Lua and managed by lazy.nvi
 ## Installation
 
 1. Ensure you have Neovim installed (version 0.8 or higher).
-2. Clone this repository into `~/.config/nvim/`: git clone https://github.com/TheLevic/nvim-config
+2. Clone this repository into `~/.config/nvim/`: `git clone https://github.com/TheLevic/nvim-config`
 3. Open Neovim. Lazy will automatically install all plugins.
 
 ## Features
@@ -30,6 +30,7 @@ This is my personal Neovim configuration, built with Lua and managed by lazy.nvi
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim) - Status line
 - [Gitsigns](https://github.com/lewis6991/gitsigns.nvim) - Git signs
 - [Comment](https://github.com/numToStr/Comment.nvim) - Commenting
+- [MarkdownPreview](https://github.com/iamcco/markdown-preview.nvim) - Markdown preview
 - [Autopairs](https://github.com/windwp/nvim-autopairs) - Auto pairs
 - [Colorscheme](https://github.com/folke/tokyonight.nvim) - Theme (assuming, based on file)
 
