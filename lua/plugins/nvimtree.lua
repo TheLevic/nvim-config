@@ -14,6 +14,6 @@ return {
         })
 
         -- Toggle file tree with <space>e
-        vim.keymap.set("n", "<space>e", ":NvimTreeToggle<CR>", { silent = true })
+        vim.keymap.set("n", "<leader>e", ":NvimTreeToggle<CR>", { silent = true })
     end,
 }
